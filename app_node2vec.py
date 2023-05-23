@@ -81,6 +81,7 @@ for node in testcases_graph.nodes:
 print("Average node degree:", round(sum(degrees) / len(degrees), 2))
 
 
+
 # Create Embedding
 node2vec = Node2Vec(testcases_graph, dimensions=64)
 
