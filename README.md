@@ -5,11 +5,14 @@ This project aims to pick up the important test cases as nodes from the network.
 
 Used algorithm:
 
-Node2vec
-K-shell analysis
-NLC (Calculation method of the node centrality)
-Description of the source:
+Node2vec,
+K-shell analysis,
+NLC (Calculation method of the node centrality),
 
+
+
+
+Description of the source:
 
 Branch:
 Ongoing project is in sprint1 branch.
